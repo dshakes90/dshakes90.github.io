@@ -35,6 +35,7 @@ experience_title: Publications
 # Education Section
 # educaton_title: Education
 
+darkmode: true 
 
 # Footer
 footer_show_references: true
