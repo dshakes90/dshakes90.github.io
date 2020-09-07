@@ -1,9 +1,10 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Exploring Artist Gender Bias in Music Recommendation
+  link: https://arxiv.org/abs/2009.01715
+  job_title: 2ndst Workshop on the Impact of Recommender Systems (ImpactRS), at the 14th ACM Conference on Recommender Systems (RecSys 2029). 
+  dates: Online, 22nd-26th September.
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Bias Disparity - "[...] the case where the recommender system introduces bias in the data, by amplifying existing biases and reinforcing
+stereotypes." [41].
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Tracing the the impact of user-item configurations on one of the most commonly deployed recommendation algorithms commonly deployed in Music Recommender Systems - Collaborative Filtering.
