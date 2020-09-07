@@ -1,10 +1,9 @@
 - layout: left
   company: Exploring Artist Gender Bias in Music Recommendation
   link: https://arxiv.org/abs/2009.01715
-  job_title: 2ndst Workshop on the Impact of Recommender Systems (ImpactRS), at the 14th ACM Conference on Recommender Systems (RecSys 2029). 
-  dates: Online, 22nd-26th September.
+  job_title: 2ndst Workshop on the Impact of Recommender Systems (ImpactRS), at the 14th ACM Conference on Recommender Systems (RecSys 2029)
+  dates: Online, 22nd-26th September
   quote: >
-    Bias Disparity - "[...] the case where the recommender system introduces bias in the data, by amplifying existing biases and reinforcing
-stereotypes." [41].
+    Bias Disparity - "[...] the case where the recommender system introduces bias in the data, by amplifying existing biases and reinforcing stereotypes."
   description: | # this will include new lines to allow paragraphs
     Tracing the the impact of user-item configurations on one of the most commonly deployed recommendation algorithms commonly deployed in Music Recommender Systems - Collaborative Filtering.
