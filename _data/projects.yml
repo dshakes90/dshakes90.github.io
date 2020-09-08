@@ -1,6 +1,6 @@
 - layout: top-middle
   name: LFM-1b MusicBrainz Gender Wrangler
-  link: https://github.com/dshakes90/LFM-1b-MusicBrainz-Gender-Wrangler
-  github: sproogen/resume-theme
+  link: github.com/dshakes90/LFM-1b-MusicBrainz-Gender-Wrangler
+  github: https://github.com/dshakes90/LFM-1b-MusicBrainz-Gender-Wrangler
   description: | # this will include new lines to allow paragraphs
      Data wrangler to retrieve gender meta-data from a locally configured version of the MusicBrainz db for artists in the Last.FM listening events dataset, LFM-1b.
