@@ -1,8 +1,6 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
+  name: LFM-1b MusicBrainz Gender Wrangler
+  link: https://github.com/dshakes90/LFM-1b-MusicBrainz-Gender-Wrangler
   github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+     Data wrangler to retrieve gender meta-data from a locally configured version of the MusicBrainz db for artists in the Last.FM listening events dataset, LFM-1b.
